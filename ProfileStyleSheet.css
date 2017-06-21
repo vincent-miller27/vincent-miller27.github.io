@@ -1,0 +1,46 @@
+﻿* {
+    background-color: whitesmoke;
+}
+
+body {
+    font-size: 13px;
+}
+
+#header {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: blue;
+}
+a:hover {
+    color: red;
+}
+
+#education-container {
+    line-height: 10px;
+}
+
+.align {
+    margin-left: 50px;
+}
+
+.right-align {
+    float: right;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.job-title {
+    font-style: italic;
+    clear: both;
+}
+
+#professional-experience-container > p, h3{
+    line-height: 10px;
+}
